@@ -43,9 +43,9 @@ streamlit run streamlit_app.py
 
 **Example Output:**
 
-![Ranked results screenshot](output1.png)
+![Ranked results screenshot](images/output1.png)
 
-![Preview with highlighted keyword](output2.png)
+![Preview with highlighted keyword](images/output2.png)
 
 ## Dependencies
 - Python 3.7+
