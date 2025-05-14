@@ -1,0 +1,11 @@
+Welcome to the TextSearchEngine sample document!
+
+This is a demonstration of how the search engine works.
+You can search for any word or phrase in this document.
+
+Some interesting facts about search engines:
+- The first search engine was created in 1990
+- Google processes over 3.5 billion searches per day
+- Search engines use complex algorithms to rank results
+
+Try searching for words like "search", "engine", or "algorithm" to see how it works! 
