@@ -1,5 +1,9 @@
 # TextSearchEngine
 
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://text-search-engine.streamlit.app/)
+
+**Live Project:** [https://text-search-engine.streamlit.app/](https://text-search-engine.streamlit.app/)
+
 A command-line and web-based search engine for text documents. It allows users to search for keywords or phrases in `.txt` files, ranks results using TF-IDF, and provides keyword-highlighted previews. Includes both a CLI and a Streamlit web app.
 
 Live Project Link(https://text-search-engine.streamlit.app/)
