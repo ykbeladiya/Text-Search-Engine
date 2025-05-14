@@ -42,8 +42,10 @@ streamlit run streamlit_app.py
 - Search query: `search engine`
 
 **Example Output:**
-- ![Ranked results screenshot](output1.png)
-- ![Preview with highlighted keyword](output2.png)
+
+![Ranked results screenshot](output1.png)
+
+![Preview with highlighted keyword](output2.png)
 
 ## Dependencies
 - Python 3.7+
