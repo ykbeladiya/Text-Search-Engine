@@ -2,6 +2,8 @@
 
 A command-line and web-based search engine for text documents. It allows users to search for keywords or phrases in `.txt` files, ranks results using TF-IDF, and provides keyword-highlighted previews. Includes both a CLI and a Streamlit web app.
 
+Live Project Link(https://text-search-engine.streamlit.app/)
+
 ## What the Project Does
 - Searches through text documents in the `documents/` folder
 - Ranks results using TF-IDF (term frequency-inverse document frequency)
